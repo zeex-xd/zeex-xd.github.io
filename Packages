@@ -1,0 +1,16 @@
+Package: com.zeex-xd.blacktheme
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Zeex
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.zeex-xd.blacktheme_2.0_iphoneos-arm.deb
+Size: 625
+MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
+SHA1: 86a27b2fab4266e4394494310e33a1177c02bb47
+SHA256: 83cb344b44fccb9187fc4bf75fa023df83ba1c24a768f4baf84c1d09daa6c9fe
+Section: Themes
+Description: Clean black theme
+Tag: role::developer
+Author: Zeex
+Name: Dark rootless
