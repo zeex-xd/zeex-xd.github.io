@@ -1,14 +1,12 @@
-Package: com.zeex-xd.blacktheme
+Package: com.zeex.xd.WhyIsEveryThingDark
+Name: Why is everything dark?
 Version: 2.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
+Description: Dark clean icon theme for ios users
+Homepage: @zeex.xd
 Maintainer: Zeex
-Installed-Size: 340
-Depends: firmware (>=7.0)
-Filename: ./debs/com.zeex-xd.blacktheme_2.0_iphoneos-arm.deb
-Size: 625
-MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
-Section: Themes
-Description: Clean black theme
-Tag: role::developer
 Author: Zeex
-Name: Dark rootless
+Filename: ./debs/com.zeex.xd.WhyIsEveryThingDark_2.0_iphoneos-arm64.deb
+Size: 6393
+MD5sum: 407f19b9e15a7de81a7a4ab48d9b44b2
+Section: Themes
