@@ -16,3 +16,21 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Icon: https://paisseon.github.io/icons/Xinamine.png
 Name: Xinamine
 Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: zeex.patcher.xinam1ne
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Zeex
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+SileoDepiction: https://zeex-xd.github.io/depictions/Xinamine.json
+Name: Xinam1ne Script
+Depends: mobilesubstrate, firmware (>= 15.0), libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, oldabi
+Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
+Size: 4296
+MD5sum: 1e847e12e9ea1303ad4bc1319d6da2af
+SHA1: 918548f895121b0c8c0b20a135dc58c2a35cc9e8
+SHA256: f39d5a957b8d53f5ff66aa8b4abfb2cace4bbfc162468d7e1ece8d14f8f5ca17
+Description: Xinamine Script
+Section: System
+Author: Paisseon, Sudo, NoW4U2Kid
+Icon: https://paisseon.github.io/icons/Xinamine.png
