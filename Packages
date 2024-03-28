@@ -11,85 +11,10 @@ Size: 6393
 MD5sum: 407f19b9e15a7de81a7a4ab48d9b44b2
 Section: Themes
 
-Package: emt.paisseon.xinamine
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Sudo + Paisseon
-Installed-Size: 244
-Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: debs/emt.paisseon.xinamine_0.0.1_iphoneos-arm64.deb
-Size: 11056
-MD5sum: 60cf93eab4c0ff173ce7a2d9798bb453
-SHA1: f7fd47e1939d7d185583a2ad124d6949aa9347db
-SHA256: 4dda942157db72dc3032566f3d24c8c78ee780d3d53bb2a3a054a550192f22df
-Section: System
-Description: Add Xina tweak compatibility to Dopamine
-Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
-Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
 
-Package: emt.paisseon.xinamine
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: Sudo + Paisseon
-Installed-Size: 244
-Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: debs/emt.paisseon.xinamine_0.0.2_iphoneos-arm64.deb
-Size: 11054
-MD5sum: 5250f991c7ebf1417537291222d6b692
-SHA1: e6b9315abc81117469eb614aa4fcf85f3bcda9ba
-SHA256: ff9f81b13ee8e4282a702fdb6fe77e2fce3aadc4ce94ecfb5ff465a11ae050a1
-Section: System
-Description: Add Xina tweak compatibility to Dopamine
-Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
-Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
-
-Package: emt.paisseon.xinamine
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: Sudo + Paisseon
-Installed-Size: 564
-Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: debs/emt.paisseon.xinamine_0.0.3_iphoneos-arm64.deb
-Size: 69322
-MD5sum: f1754edb3ef03153258c65ba1081dbe9
-SHA1: 8405fdbe9bb3f7c357b1e701a22bcaa7a13e60c3
-SHA256: 3a7bb5a1df80fa656204d50510ad3eab61bdfb5f257776ea154d45738b1072fa
-Section: System
-Description: Add Xina tweak compatibility to Dopamine
-Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
-Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
-
-Package: emt.paisseon.xinamine
-Version: 0.0.4
-Architecture: iphoneos-arm64
-Maintainer: Sudo + Paisseon
-Installed-Size: 564
-Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: debs/emt.paisseon.xinamine_0.0.4_iphoneos-arm64.deb
-Size: 69926
-MD5sum: e5df49e89090bd118e4ffb0dcc373a12
-SHA1: 256f59fdbf89df66534f4c28caf0ffb2aed5d7e9
-SHA256: 64de2dc53da9f4c9220a3b35aec94d02ad21a3c52a8563a14a41f46dabe0ee5d
-Section: System
-Description: Add Xina tweak compatibility to Dopamine
-Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
-Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
 
 Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
-
+Sileodepiction: https://zeex-xd.github.io/depictions/Xinamine.json
 Package: emt.paisseon.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
@@ -104,21 +29,27 @@ SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
 Section: System
 Description: Add Xina tweak compatibility to Dopamine
 Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: zeex-xd.github.io/icons/Xinamine.png
 Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+Sileodepiction: https://zeex-xd.github.io/depictions/Xinamine.json
 
+
+--
 Package: zeex.patcher.xinam1ne
 Maintainer: Zeex
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
 Name: Xinam1ne Script
 Version: 1.0
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 15.0), libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, oldabi
-Description: Convert your rootful tweaks to rootless
-Section: Utilities
+Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
+Size: 4296
+MD5sum: 1e847e12e9ea1303ad4bc1319d6da2af
+SHA1: 918548f895121b0c8c0b20a135dc58c2a35cc9e8
+SHA256: f39d5a957b8d53f5ff66aa8b4abfb2cace4bbfc162468d7e1ece8d14f8f5ca17
+Description: Xinamine Script
+Section: System
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://paisseon.github.io/icons/Xinamine.png
-MD5sum: 1e847e12e9ea1303ad4bc1319d6da2af
-Size: 4296
-Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
