@@ -6,7 +6,7 @@ Description: Dark clean icon theme for ios users
 Homepage: @zeex.xd
 Maintainer: Zeex
 Author: Zeex
-Filename: ./debs/com.zeex.xd.WhyIsEveryThingDark_2.0_iphoneos-arm64.deb
+Filename: /debs/com.zeex.xd.WhyIsEveryThingDark_2.0_iphoneos-arm64.deb
 Size: 6393
 MD5sum: 407f19b9e15a7de81a7a4ab48d9b44b2
 Section: Themes
@@ -111,16 +111,14 @@ Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
 
 Package: zeex.patcher.xinam1ne
 Maintainer: Zeex
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
 Name: Xinam1ne Script
 Version: 1.0
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 15.0), libclang-cpp14, llvm-14, llvm-14-runtime, file, odcctools, ldid, oldabi
-Description: Xinamine Script
+Description: Convert your rootful tweaks to rootless
 Section: Utilities
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://paisseon.github.io/icons/Xinamine.png
 MD5sum: 1e847e12e9ea1303ad4bc1319d6da2af
 Size: 4296
-Filename: zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
+Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
