@@ -24,7 +24,7 @@ Maintainer: Zeex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
 SileoDepiction: https://zeex-xd.github.io/depictions/Xinamine.json
 Name: Xinam1ne Script
-Depends: mobilesubstrate, firmware (>= 15.0), file, fakeroot, odcctools, llvm-14, llvm-14-runtime, ldid, oldabi
+Depends: mobilesubstrate, firmware (>= 15.0), file, fakeroot, ldid, oldabi
 Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
 Size: 4096
 MD5sum: de04321c7665a19dc67fa626ccc6a7f6
