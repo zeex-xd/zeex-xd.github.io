@@ -26,10 +26,10 @@ SileoDepiction: https://zeex-xd.github.io/depictions/Xinamine.json
 Name: Xinam1ne Script
 Depends: mobilesubstrate, firmware (>= 15.0), file, fakeroot, ldid
 Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
-Size: 4096
-MD5sum: de04321c7665a19dc67fa626ccc6a7f6
-SHA1: d303bd9fa7b802d189df84c95bd3034a0555e2e7
-SHA256: d3d5462628bf2eccfd44324973b0e74e08581e3cd62c4a6a9c55e87c3304236b
+Size: 4066
+MD5sum: 4f7ab5f5b0fe6d8cba0d09dea3ab616a
+SHA1: fdf0528d462e1eb525bb97e66796ae9ecf360239
+SHA256: c6a9f807a75bb4ae0283ec74cc88bce15f670d16dc8442598268119aa97a592f
 Description: Xinamine Script
 Section: System
 Author: Paisseon, Sudo, NoW4U2Kid
