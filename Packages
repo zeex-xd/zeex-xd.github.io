@@ -24,13 +24,13 @@ Maintainer: Zeex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
 SileoDepiction: https://zeex-xd.github.io/depictions/Xinamine.json
 Name: Xinam1ne Script
-Depends: mobilesubstrate, firmware (>= 15.0), file, fakeroot, ldid
+Depends: mobilesubstrate, firmware (>= 15.0), file, fakeroot, ldid, libclang-cpp14, llvm-14, llvm-14-runtime, odcctools
 Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
-Size: 4066
-MD5sum: 4f7ab5f5b0fe6d8cba0d09dea3ab616a
-SHA1: fdf0528d462e1eb525bb97e66796ae9ecf360239
-SHA256: c6a9f807a75bb4ae0283ec74cc88bce15f670d16dc8442598268119aa97a592f
-Description: Xinamine Script
+Size: 4144
+MD5sum: b89124cb6afeb158ae16e364e1c1d9ab
+SHA1: b34704abccdd524723ac0b14825ceb821e1c4459
+SHA256: 27faebc65a6e1c36e7c4cb3cb9f29ab5456ea7e4effed83e893e413ddb939362
+Description: Xinamine Script, use the Filza from sileo (troll store one will not work)
 Section: System
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://paisseon.github.io/icons/Xinamine.png
