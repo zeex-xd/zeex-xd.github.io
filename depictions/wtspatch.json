@@ -1,8 +1,8 @@
 {
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "tintColor": "#A2C4C9",
-    "headerImage": "https://zeex-xd.github.io/images/LiaDive.png",
+    "tintColor": "#000000",
+    "headerImage": "https://zeex-xd.github.io/images/guts.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -82,7 +82,7 @@
         {
             "tabname": "Change Log",
             "class": "DepictionStackView",
-            "tintColor": "#A2C4C9",
+            "tintColor": "#000000",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
