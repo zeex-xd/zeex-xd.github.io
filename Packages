@@ -129,3 +129,25 @@ Size: 87200
 MD5sum: 679ba1584845139770825c0bdceeaec0
 SHA1: 27b7a784b41b26bcea98fac1284a7adbcf7da966
 SHA256: 2e1479548eee3a84661a7625e2c412ddbdcff550c2a5414c0de72e8a8911169d
+
+Package: com.miguelaka95.bettercc
+Name: BetterCC
+Version: 0.0.5
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/BetterCC.json&name=RGBoard&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/BetterCC.json
+Section: Tweaks (Xinamine)
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, emt.paisseon.xinamine (>= 0.0.5)
+Installed-Size: 1828
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Maintainer: Miguelaka95 <miguelaka95@gmail.com>
+Description: Customize your Control Center!
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Filename: debs/com.miguelaka95.bettercc_0.0.5_iphoneos-arm64.deb
+Size: 149468
+MD5sum: e8617ceeab4a930f9e56887813d562db
+SHA1: cea69cc4e8864e9254a8e39a986cad7623fb6be4
+SHA256: 4a5ff86faa5923e8a471ed2d2ef01533cb72b012c3f6fd89e8e5e794f8c835b7

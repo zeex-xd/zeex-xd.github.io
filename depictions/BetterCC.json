@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Discrisao"
+                    "markdown": "- Customize your Control Center!"
                 },
                 
                 {
@@ -29,7 +29,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Caracteristicas"
+                    "markdown": "-  Invisible Modules. \n- Rearrange Connectivity Toggles \n- .Change Modules Size. \n- Weather Widget."
                 },
                 
                 {
@@ -45,17 +45,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developers",
-                    "text": "Author"
+                    "text": "Miguelaka95"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "Current Version"
+                    "text": "0.0.5"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "ios comp"
+                    "text": "iOS 14+"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -88,7 +88,7 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.0"
+                    "title": "0.0.5"
                 },
                 {
                     "class": "DepictionMarkdownView",
