@@ -12,10 +12,10 @@ SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
 Section: System
 Description: Add Xina tweak compatibility to Dopamine
 Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Xinamine.json&name=Xinamine&dev=Zeex
+Icon: https://zeex-xd.github.io/icons/Xinamine.png
 Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+Sileodepiction: https://zeex-xd.github.io/depictions/Xinamine.json
 
 Package: zeex.patcher.xinam1ne
 Version: 1.0
