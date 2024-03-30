@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "tintColor": "#CBA0DD",
+    "tintColor": "#A2C4C9",
     "headerImage": "https://zeex-xd.github.io/images/LiaDive.png",
     "tabs": [
         {
@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Adds symlinks which fix Xina tweaks (i.e., tweaks repackaged on Xina) for Dopamine and rootless palera1n. This fixes some nonderootifiable tweaks."
+                    "markdown": "- Xinamine Script, use the Filza from sileo (Filza from TrollStore will not work)"
                 },
                 
                 {
@@ -29,7 +29,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Runs automatically when you respring \n- Very lightweight \n- Open source"
+                    "markdown": "- Just a script"
                 },
                 
                 {
@@ -62,7 +62,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "0.0.5"
+                    "text": "1.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -84,8 +84,8 @@
                         },
                         {
                             "class": "DepictionTableButtonView",
-                            "title": "jb community",
-                            "action": "https://discord.gg/owo",
+                            "title": "iOS Jailbreak Community",
+                            "action": "https://chat.whatsapp.com/HCjWYyN1fqS2H9sLuCxMhh",
                             "openExternal": true
                         }
                     ]
@@ -100,17 +100,17 @@
         {
             "tabname": "Change Log",
             "class": "DepictionStackView",
-            "tintColor": "#CBA0DD",
+            "tintColor": "#A2C4C9",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "0.0.5"
+                    "title": "1.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added more symlinks, added prefs bundle."
+                    "markdown": "- Bug fixes."
                 },
                 {
                     "class": "DepictionSubheaderView",
