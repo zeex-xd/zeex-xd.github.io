@@ -133,6 +133,7 @@ SHA256: 2e1479548eee3a84661a7625e2c412ddbdcff550c2a5414c0de72e8a8911169d
 Package: com.miguelaka95.bettercc
 Name: BetterCC
 Version: 0.0.5
+Icon: https://zeex-xd.github.io/icons/BetterCC.png
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/BetterCC.json&name=BetterCC&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/BetterCC.json
 Section: Tweaks (Xinamine)
@@ -154,6 +155,7 @@ SHA256: 4a5ff86faa5923e8a471ed2d2ef01533cb72b012c3f6fd89e8e5e794f8c835b7
 
 Package: com.haoict.tiktokgod
 Name: TikTok God
+Icon: https://zeex-xd.github.io/icons/IconTikTokGod.png
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/TikTokGod.json&name=TikTokGod&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/TikTokGod.json
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
