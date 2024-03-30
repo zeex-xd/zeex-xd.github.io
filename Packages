@@ -75,7 +75,7 @@ SHA256: 1ba7fac6f88eacd79f87c18ef1ead00576e232d660cdcd5b266c2115ed510f5a
 
 Package: Flex3beta
 Name: Flex 3 Beta 56
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Flex3Beta.json&name=wtspatch&dev=Zeex
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Flex3Beta.json&name=Flex&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/Flex3Beta.json
 Depends:firmware (>= 9.0)
 Recommended: com.rpetrich.rocketbootstrap
@@ -97,7 +97,8 @@ SHA256: baaafa0c794199e125653131d9994e20cd4f31cb266a702d66b5949481938c1a
 Package: com.miro.rgboard
 Name: RGBoard
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, emt.paisseon.xinamine (>= 0.0.5)
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/RGBoard.json&name=RGBoard&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/RGBoard.json
 Description: Razer Chroma RGB keyboard.
 Architecture: iphoneos-arm64
 Maintainer: MiRO <tweaks_support@miro92.com>
@@ -111,3 +112,19 @@ Size: 280040
 MD5sum: 9be5595e1b29326292ccfdf82d49b2b1
 SHA1: 1982cb8d5d0cf6f1c7382aabe051e1cca979bda1
 SHA256: 9288107b1bd1549dbee10369222948189d54d2e1b5c7723bde1b0af080c4a9ea
+
+Package: com.creaturesurvive.libcscolorpicker
+Name: libCSColorPicker
+Architecture: iphoneos-arm64
+Depiction: https://creaturesurvive.github.io/repo/cydia/libcscolorpicker/depiction/
+Description: A minimal color picker library for developers
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks (Xinamine)
+Version: 1.0
+Installed-Size: 492
+Filename: debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64.deb
+Size: 87200
+MD5sum: 679ba1584845139770825c0bdceeaec0
+SHA1: 27b7a784b41b26bcea98fac1284a7adbcf7da966
+SHA256: 2e1479548eee3a84661a7625e2c412ddbdcff550c2a5414c0de72e8a8911169d
