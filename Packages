@@ -55,7 +55,7 @@ SHA256: e4a9c8c0e7e5306defb479676ecc1c5c1101de10526ae285f54f889176750ba0
 Package: Flex3beta
 Icon: https://zeex-xd.github.io/icons/Flex.png
 Name: Flex 3 Beta
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Flex3Beta.json&name=wtspatch&dev=Zeex
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Flex3Beta.json&name=Flex&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/Flex3Beta.json
 Depends:firmware (>= 9.0)
 Recommended: com.rpetrich.rocketbootstrap
@@ -121,7 +121,7 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/libcscolorpicker/depicti
 Description: A minimal color picker library for developers
 Maintainer: CreatureSurvive <support@creaturecoding.com>
 Author: CreatureSurvive <support@creaturecoding.com>
-Section: Tweaks (Xinamine)
+Section: System
 Version: 1.0
 Installed-Size: 492
 Filename: debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64.deb
@@ -133,7 +133,7 @@ SHA256: 2e1479548eee3a84661a7625e2c412ddbdcff550c2a5414c0de72e8a8911169d
 Package: com.miguelaka95.bettercc
 Name: BetterCC
 Version: 0.0.5
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/BetterCC.json&name=RGBoard&dev=Zeex
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/BetterCC.json&name=BetterCC&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/BetterCC.json
 Section: Tweaks (Xinamine)
 Architecture: iphoneos-arm64
@@ -151,3 +151,65 @@ Size: 149468
 MD5sum: e8617ceeab4a930f9e56887813d562db
 SHA1: cea69cc4e8864e9254a8e39a986cad7623fb6be4
 SHA256: 4a5ff86faa5923e8a471ed2d2ef01533cb72b012c3f6fd89e8e5e794f8c835b7
+
+Package: com.haoict.tiktokgod
+Name: TikTok God
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/TikTokGod.json&name=TikTokGod&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/TikTokGod.json
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
+Architecture: iphoneos-arm64
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ . 
+ Features:
+ - Remove Ads
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Bypass jailbreak detection (make like and follow work)
+ - Support iOS 12 - 14 & latest TikTok version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks (Xinamine)
+Version: 4.0.0
+Installed-Size: 420
+Filename: debs/com.haoict.tiktokgod_4.0.0_iphoneos-arm64.deb
+Size: 53516
+MD5sum: d1ea7031ff83d2502427a27f33dbca9e
+SHA1: 26901d38f5a725721d617ba8dbfc065b46e044b1
+SHA256: 00fc9a5ce2298e1eec4bfecb7d198b5153bde2f0f171c2f0cfaee74c199d5b71
+
+Package: com.haoict.libhdev
+Name: libhdev
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
+Architecture: iphoneos-arm64
+Description: This is a developer library for better preferences and useful utilities.
+ This is a developer library for better preferences and useful utilities.
+ . 
+ Change log: 
+ - v4.8.1: Minor improvement
+ - v4.8.0: Improve performance & reduce package size
+ - v4.7.0: Improve media download & fix preferences cell color
+ . 
+ Github: https://github.com/haoict/libhdev-public
+ . 
+ © 2021 haoict
+Maintainer: Hao Nguyen <hao.ict56@gmail.com>
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Section: System
+Tag: role::developer
+Version: 4.8.1
+Installed-Size: 316
+Filename: debs/
+Size: 46156 
+MD5sum: 2952ccd8987a170c8cec664a54e8772d
+SHA1: 887405c28373968ba06c8389ab392ea490154de7
+SHA256: 3694590c12f7dd212955eb06ffde287b9192b9869dc4e23417bcd4c90a4ffa4d
