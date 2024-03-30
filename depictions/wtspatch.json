@@ -33,18 +33,6 @@
                 },
                 
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "Known Issues"
-                },
-                
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Currently doesn't work if Crane is installed \n- Apparently Cephei breaks a lot of stuff if you aren't careful, don't use it!"
-                },
-                
-                {
                     "class": "DepictionSeparatorView"
                 },
                 
