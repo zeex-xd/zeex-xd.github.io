@@ -66,12 +66,6 @@
                     "views": [
                         {
                             "class": "DepictionTableButtonView",
-                            "title": "Source Code",
-                            "action": "https://github.com/Paisseon/Xinamine",
-                            "openExternal": true
-                        },
-                        {
-                            "class": "DepictionTableButtonView",
                             "title": "iOS Jailbreak Community",
                             "action": "https://chat.whatsapp.com/HCjWYyN1fqS2H9sLuCxMhh",
                             "openExternal": true
