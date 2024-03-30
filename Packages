@@ -53,6 +53,7 @@ SHA1: 25cae1ec6c40a72d290cb4a264ad64590848d902
 SHA256: e4a9c8c0e7e5306defb479676ecc1c5c1101de10526ae285f54f889176750ba0
 
 Package: Flex3beta
+Icon: https://zeex-xd.github.io/icons/Flex.png
 Name: Flex 3 Beta
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Flex3Beta.json&name=wtspatch&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/Flex3Beta.json
