@@ -70,7 +70,7 @@ Filename: debs/Flex3beta_13~Beta98_iphoneos-arm64.deb
 Size: 10051964 
 MD5sum: c7873e112e5238aa860611ac6bd22447
 SHA1: 5534bf6008c3cee8030a28f77a998f9c6d7aee6a
-SHA256: 5534bf6008c3cee8030a28f77a998f9c6d7aee6a
+SHA256: 1ba7fac6f88eacd79f87c18ef1ead00576e232d660cdcd5b266c2115ed510f5a
 
 Package: Flex3beta
 Name: Flex 3 Beta 56
