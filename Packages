@@ -86,6 +86,7 @@ Description: Flex 3 beta 56
 Maintainer: John Coates
 Author: John Coates
 Section: Tweaks
+Icon: https://zeex-xd.github.io/icons/Flex.png
 Filename: debs/Flex3beta_13~Beta56_iphoneos-arm64.deb
 Size: 16812876 
 MD5sum: bc472cecf489005ecfbc6ddd2043c2f4
