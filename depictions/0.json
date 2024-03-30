@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Xinamine Script, use the Filza from sileo (Filza from TrollStore will not work)"
+                    "markdown": "- Removes banner ads from Watusi 3 for WhatsApp and WhatsApp Business"
                 },
                 
                 {
@@ -29,20 +29,9 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Just a script"
+                    "markdown": "- No ads in watusi"
                 },
                 
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "Known Issues"
-                },
-                
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Currently doesn't work if Crane is installed \n- Apparently Cephei breaks a lot of stuff if you aren't careful, don't use it!"
-                },
                 
                 {
                     "class": "DepictionSeparatorView"
@@ -57,31 +46,23 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developers",
-                    "text": "NoW4U2Kid"
+                    "text": "ijm"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.0"
+                    "text": "1.0.1"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 15.0 - 16.5"
+                    "text": "iOS 12.x-16.x"
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
-                {
-                    "class": "DepictionStackView",
-                    "views": [
-                        {
-                            "class": "DepictionTableButtonView",
-                            "title": "Source Code",
-                            "action": "https://github.com/Paisseon/Xinamine",
-                            "openExternal": true
-                        },
+  
                         {
                             "class": "DepictionTableButtonView",
                             "title": "iOS Jailbreak Community",
