@@ -208,7 +208,7 @@ Section: System
 Tag: role::developer
 Version: 4.8.1
 Installed-Size: 316
-Filename: debs/
+Filename: debs/com.haoict.libhdev_4.8.1_iphoneos-arm64.deb
 Size: 46156 
 MD5sum: 2952ccd8987a170c8cec664a54e8772d
 SHA1: 887405c28373968ba06c8389ab392ea490154de7
