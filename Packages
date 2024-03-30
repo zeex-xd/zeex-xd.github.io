@@ -93,3 +93,21 @@ Size: 16812876
 MD5sum: bc472cecf489005ecfbc6ddd2043c2f4
 SHA1: a9bf1b40abf1ca4352ea7db9a1f6467d2d06d514
 SHA256: baaafa0c794199e125653131d9994e20cd4f31cb266a702d66b5949481938c1a
+
+Package: com.miro.rgboard
+Name: RGBoard
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.rgboard
+Description: Razer Chroma RGB keyboard.
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks (Xinamine)
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.6
+Version: 1.0.5
+Installed-Size: 680
+Filename: debs/com.miro.rgboard_1.0.5_iphoneos-arm64.deb
+Size: 280040 
+MD5sum: 9be5595e1b29326292ccfdf82d49b2b1
+SHA1: 1982cb8d5d0cf6f1c7382aabe051e1cca979bda1
+SHA256: 9288107b1bd1549dbee10369222948189d54d2e1b5c7723bde1b0af080c4a9ea
