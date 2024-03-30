@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Removes banner ads from Watusi 3 for WhatsApp and WhatsApp Business"
+                    "markdown": "- Discrisao"
                 },
                 
                 {
@@ -29,9 +29,8 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- No ads in watusi"
+                    "markdown": "- Caracteristicas"
                 },
-                
                 
                 {
                     "class": "DepictionSeparatorView"
@@ -46,23 +45,25 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developers",
-                    "text": "ijm"
+                    "text": "Author"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.0.1"
+                    "text": "Current Version"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 12.x-16.x"
+                    "text": "ios comp"
                 },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
-  
+                {
+                    "class": "DepictionStackView",
+                    "views": [
                         {
                             "class": "DepictionTableButtonView",
                             "title": "iOS Jailbreak Community",
