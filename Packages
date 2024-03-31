@@ -106,7 +106,7 @@ Author: MiRO <tweaks_support@miro92.com>
 Section: Tweaks (Xinamine)
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.6
 Version: 1.0.5
-Icon: https://zeex-xd.github.io/icons/RGBoard.png
+Icon: https://zeex-xd.github.io/icons/RGBoardIcon.png.png
 Installed-Size: 680
 Filename: debs/com.miro.rgboard_1.0.5_iphoneos-arm64.deb
 Size: 280040 
