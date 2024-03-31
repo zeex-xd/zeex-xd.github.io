@@ -215,3 +215,22 @@ Size: 46156
 MD5sum: 2952ccd8987a170c8cec664a54e8772d
 SHA1: 887405c28373968ba06c8389ab392ea490154de7
 SHA256: 3694590c12f7dd212955eb06ffde287b9192b9869dc4e23417bcd4c90a4ffa4d
+
+Package: com.nightwind.whatsappbackground
+Name: WhatsAppBackground
+Description: Background wallpaper in whatsapp
+Icon: https://zeex-xd.github.io/icons/WhatsAppBackgroundIcon.png
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/WhatsAppBackground.json&name=WhatsAppBackground&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/WhatsAppBackground.json
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.1-39+debug
+Installed-Size: 360
+Filename: debs/com_nightwind_whatsappbackground_0_0_1_39+debug_iphoneos_arm64.deb
+Size: 15840
+MD5sum: com_nightwind_whatsappbackground_0_0_1_39+debug_iphoneos_arm64.deb
+SHA1: b75f0805baa0419a0a71eb42e06e2c074ab0fa65
+SHA256: 19fe92d70b2f36bc3cf5767bbd339e8076198b9567fb9f7d56c019f7ac4bbc93
