@@ -9,7 +9,7 @@ Size: 70006
 MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
 SHA1: cca516b753396474b40a2d686795801a528a107a
 SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
-Section: System
+Section: Utilities
 Description: Add Xina tweak compatibility to Dopamine
 Author: Sudo + Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Xinamine.json&name=Xinamine&dev=Zeex
@@ -31,7 +31,7 @@ MD5sum: a6b119a444da7075a7f39727018568fa
 SHA1: 7134e38af2ba4777a9abf273a64693a236c91240
 SHA256: ac7b0962f45696b9b408269da433a683b0ccf5eaa32952f4ef7cd9f6fe62ce30
 Description: Xinamine Script, use the Filza from sileo (troll store one will not work)
-Section: System
+Section: Utilities
 Author: Paisseon, Sudo, NoW4U2Kid
 Icon: https://zeex-xd.github.io/icons/Xinamine.png
 
@@ -40,6 +40,7 @@ Maintainer: Zeex
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/wtspatch.json&name=wtspatch&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/wtspatch.json
 Name: wtspatch
+Icon: https://zeex-xd.github.io/icons/wtspatchicon.png
 Description:  Removes banner ads from Watusi 3 for WhatsApp and WhatsApp Business
 Author: ijm
 Section: Tweaks
@@ -103,7 +104,7 @@ Description: Razer Chroma RGB keyboard.
 Architecture: iphoneos-arm64
 Maintainer: MiRO <tweaks_support@miro92.com>
 Author: MiRO <tweaks_support@miro92.com>
-Section: Tweaks (Xinamine)
+Section: Tweaks
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.6
 Version: 1.0.5
 Icon: https://zeex-xd.github.io/icons/RGBoardIcon.png
@@ -136,7 +137,7 @@ Version: 0.0.5
 Icon: https://zeex-xd.github.io/icons/BetterCC.png
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/BetterCC.json&name=BetterCC&dev=Zeex
 SileoDepiction: https://zeex-xd.github.io/depictions/BetterCC.json
-Section: Tweaks (Xinamine)
+Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, emt.paisseon.xinamine (>= 0.0.5)
 Installed-Size: 1828
@@ -180,7 +181,7 @@ Description: The best tweak for TikTok app.
  Thanks a ton
 Maintainer: Hao Nguyen
 Author: Hao Nguyen
-Section: Tweaks (Xinamine)
+Section: Tweaks
 Version: 4.0.0
 Installed-Size: 420
 Filename: debs/com.haoict.tiktokgod_4.0.0_iphoneos-arm64.deb
