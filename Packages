@@ -311,7 +311,7 @@ Section: Tweaks
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 Installed-Size: 642
 dev: afnanahmad
-Icon: Icon: https://zeex-xd.github.io/icons/ChromaHomeBarXIcon.png
+Icon: https://zeex-xd.github.io/icons/ChromaHomeBarXIcon.png
 Filename: debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
 Size: 103604 
 MD5sum: 715b06c1be45f8f1288698d9ad38dbc4
