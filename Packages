@@ -232,6 +232,88 @@ Version: 0.0.1-39+debug
 Installed-Size: 360
 Filename: debs/com_nightwind_whatsappbackground_0_0_1_39+debug_iphoneos_arm64.deb
 Size: 15840
-MD5sum: com_nightwind_whatsappbackground_0_0_1_39+debug_iphoneos_arm64.deb
+MD5sum: d9b993b798e0f8d6340c71d4e740fc08
 SHA1: b75f0805baa0419a0a71eb42e06e2c074ab0fa65
 SHA256: 19fe92d70b2f36bc3cf5767bbd339e8076198b9567fb9f7d56c019f7ac4bbc93
+
+Package: com.muirey03.libimagepicker
+Name: libimagepicker
+Depends:
+Description: A simple library for choosing images in preference bundles.
+Maintainer: Muirey03
+Author: Muirey03
+Section: System
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Installed-Size: 168
+Filename: debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64.deb
+Size: 10038
+MD5sum: 0675f412d5c39c45d6daef027f67cc8d
+SHA1: 67b603bb1437617b1d469b5626b51c0b60a53fb0
+SHA256: cd96406dc235ec0c27cdc1335e9aaa02c20608e0f6ca6304a0bbe83344a7f5a1
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), emt.paisseon.xinamine (>= 0.0.5)
+Name: RocketBootstrap
+Architecture: iphoneos-arm64
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: System
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.10~beta1
+Installed-Size: 596
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.10~beta1_iphoneos-arm64.deb
+Size: 40732
+MD5sum: c0912e720ea64f6f28d476a07e2dca9d
+SHA1: 83461d92371b71c2e916d7929c9e55b4dfc2096f
+SHA256: 3b5bb3364a2fad84a54d6007b1588cfa69262a187b36126c77ea8b8c0c9eb837
+
+Package: com.peterdev.xeon
+Name: Xeon Lite
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, emt.paisseon.xinamine (>= 0.0.5)
+Architecture: iphoneos-arm64
+Description: Supercharge status bar!
+Provides: com.alexzielenski.zeppelin
+Maintainer: Soongyu Kwon <support@soongyu.me>
+Author: Soongyu Kwon <support@soongyu.me>
+Icon: https://github.com/s8ngyu/Xeon/blob/master/xeonprefs/Resources/icon@2x.png?raw=true
+Section: Tweaks
+Version: 1.1.3
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Xeon.json&name=Xeon&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/Xeon.json
+Installed-Size: 2692
+Filename: debs/com.peterdev.xeon_1.1.3_iphoneos-arm64.deb
+Size: 859984
+MD5sum: f1b2c942656148844a9d8384a755fec8
+SHA1: 022a20e6c4568f9600f9b6f89ec0596ad92762b0
+SHA256: 20d723584798fd6c55cbf1d65a49c808ace3901c48ed5b954a0375e41428cf16
+
+Name: ChromaHomeBarX
+Package: com.afnanahmad.chromahomebarx
+Priority: optional
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Version: 0.4
+Architecture: iphoneos-arm64
+Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/ChromaHomeBarX.json&name=ChromaHomeBarX&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/ChromaHomeBarX.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Installed-Size: 642
+dev: afnanahmad
+Icon: Icon: https://zeex-xd.github.io/icons/ChromaHomeBarXIcon.png
+Filename: debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
+Size: 103604 
+MD5sum: 715b06c1be45f8f1288698d9ad38dbc4
+SHA1: 9fe0c21925e271ae9ac18f53ab808b14c791f3f6
+SHA256: 31bba1cac30541e50608ec8c22a9853299a4bb79519c930fce3d19fe0464ed97
