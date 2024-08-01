@@ -26,10 +26,10 @@ SileoDepiction: https://zeex-xd.github.io/depictions/XinaminePatcher.json
 Name: Xinam1ne Script
 Depends: mobilesubstrate, firmware (>= 15.0), file, fakeroot, ldid, libclang-cpp14, llvm-14, llvm-14-runtime, odcctools, emt.paisseon.xinamine
 Filename: debs/zeex.patcher.xinam1ne_1.0_iphoneos-arm64.deb
-Size: 4158
-MD5sum: a6b119a444da7075a7f39727018568fa
-SHA1: 7134e38af2ba4777a9abf273a64693a236c91240
-SHA256: ac7b0962f45696b9b408269da433a683b0ccf5eaa32952f4ef7cd9f6fe62ce30
+Size: 4344
+MD5sum: 424be48f494855b13d231660365c4c6a
+SHA1: b6486b4de3d28f7634ee7ea443aa78c306bdb2e3
+SHA256: 477d88e512aa7d93ed27edbe98066888ab51c3877cda832459bb0100caf136cf
 Description: Xinamine Script, use the Filza from sileo (troll store one will not work)
 Section: Utilities
 Author: Paisseon, Sudo, NoW4U2Kid
@@ -317,3 +317,70 @@ Size: 103604
 MD5sum: 715b06c1be45f8f1288698d9ad38dbc4
 SHA1: 9fe0c21925e271ae9ac18f53ab808b14c791f3f6
 SHA256: 31bba1cac30541e50608ec8c22a9853299a4bb79519c930fce3d19fe0464ed97
+
+Package: me.conorthedev.dotto+
+Name: dotto+
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), me.conorthedev.libappearancecell, ws.hbang.alderis | org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Architecture: iphoneos-arm64
+Description: Notifications, your style.
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Author: ConorTheDev & Mirac
+Section: Tweaks
+Version: 1.0.6
+Filename: debs/me.conorthedev.dotto+_1.0.6_iphoneos-arm64.deb
+Size: 79676 
+MD5sum: a9c9c47f687c8b0ec38c1fc68954056f
+SHA1: 23476647a642662f073364703b3e47f9df634af5
+SHA256: d89fcffd1fbce926384019c02c84b28a24adb2eca1b6806abc307d655739e528
+
+Package: me.conorthedev.libappearancecell
+Name: libappearancecell
+Architecture: iphoneos-arm64
+Description: A library for that allows developers to use an iOS 13-style appearance selector in their Preferences.
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Author: ConorTheDev <conorthedev@gmail.com>
+Section: System
+Tag: role::developer
+Version: 1.0.3
+Installed-Size: 204
+Filename: debs/me.conorthedev.libappearancecell_1.0.3_iphoneos-arm64.deb
+Size: 15748 
+MD5sum: 216c0546744d4ab8e0863ec53fe93bb1
+SHA1: 77948a3ecafef1f45c20962354d2e0e9c57cf00f
+SHA256: 5217fc444782b12ae3e9805898dc6c1e0f808ed1eef8ca0331036c16252006f1
+
+Package: me.conorthedev.libappearancecell
+Name: libappearancecell
+Architecture: iphoneos-arm64
+Description: A library for that allows developers to use an iOS 13-style appearance selector in their Preferences.
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Author: ConorTheDev <conorthedev@gmail.com>
+Section: System
+Tag: role::developer
+Version: 1.0.3
+Installed-Size: 204
+Filename: debs/me.conorthedev.libappearancecell_1.0.3_iphoneos-arm64.deb
+Size: 15748 
+MD5sum: 216c0546744d4ab8e0863ec53fe93bb1
+SHA1: 77948a3ecafef1f45c20962354d2e0e9c57cf00f
+SHA256: 5217fc444782b12ae3e9805898dc6c1e0f808ed1eef8ca0331036c16252006f1
+
+Package: dev.traurige.kayoko
+Name: Kayoko
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Description: Feature rich clipboard manager for iOS
+Maintainer: Traurige <hello@traurige.dev>
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Installed-Size: 956
+Filename: debs/dev.traurige.kayoko_1.4.2_iphoneos-arm64.deb
+Size: 79646 
+MD5sum: adfae9702c7075f5970ae5bb85720c45
+SHA1: 4069dbd11c7ac784a777140761e9ba55c3f1d66e
+SHA256: a4a2f739ddcd7d53915cb17a05d48a8fb7d5f2be1fa96c3e16faadd1e48aeb2e
+
+
+
+
