@@ -332,22 +332,9 @@ Size: 79676
 MD5sum: a9c9c47f687c8b0ec38c1fc68954056f
 SHA1: 23476647a642662f073364703b3e47f9df634af5
 SHA256: d89fcffd1fbce926384019c02c84b28a24adb2eca1b6806abc307d655739e528
-
-Package: me.conorthedev.libappearancecell
-Name: libappearancecell
-Architecture: iphoneos-arm64
-Description: A library for that allows developers to use an iOS 13-style appearance selector in their Preferences.
-Maintainer: ConorTheDev <conorthedev@gmail.com>
-Author: ConorTheDev <conorthedev@gmail.com>
-Section: System
-Tag: role::developer
-Version: 1.0.3
-Installed-Size: 204
-Filename: debs/me.conorthedev.libappearancecell_1.0.3_iphoneos-arm64.deb
-Size: 15748 
-MD5sum: 216c0546744d4ab8e0863ec53fe93bb1
-SHA1: 77948a3ecafef1f45c20962354d2e0e9c57cf00f
-SHA256: 5217fc444782b12ae3e9805898dc6c1e0f808ed1eef8ca0331036c16252006f1
+Icon: https://zeex-xd.github.io/icons/Dotto.png
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Dotto.json&name=Dotto&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/Dotto.json
 
 Package: me.conorthedev.libappearancecell
 Name: libappearancecell
@@ -380,7 +367,9 @@ Size: 79646
 MD5sum: adfae9702c7075f5970ae5bb85720c45
 SHA1: 4069dbd11c7ac784a777140761e9ba55c3f1d66e
 SHA256: a4a2f739ddcd7d53915cb17a05d48a8fb7d5f2be1fa96c3e16faadd1e48aeb2e
-
+Icon: https://zeex-xd.github.io/icons/Kayoko.png
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://zeex-xd.github.io/depictions/Kayoko.json&name=Kayoko&dev=Zeex
+SileoDepiction: https://zeex-xd.github.io/depictions/Kayoko.json
 
 
 

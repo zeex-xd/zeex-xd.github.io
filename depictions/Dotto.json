@@ -2,7 +2,7 @@
     "minVersion": "0.1",
     "class": "DepictionTabView",
     "tintColor": "#000000",
-    "headerImage": "https://zeex-xd.github.io/icons/TikTokGod.png",
+    "headerImage": "https://zeex-xd.github.io/images/LiaDive.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- The best tweak for TikTok app."
+                    "markdown": "- Notifications, your style."
                 },
                 
                 {
@@ -29,7 +29,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Remove Ads \n- Download without watermark \n- Auto scroll to next video \n- Change Region (may not work for iPad and some devices) \n- Show progress bar (for fast forward or rewind video) \n- Can hide UI (view video in full screen) \n- Bypass jailbreak detection (make like and follow work) \n- Support iOS 12+ & latest TikTok version"
+                    "markdown": "- Custom Notifications
                 },
                 
                 {
@@ -45,17 +45,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Developers",
-                    "text": "Hao Nguyen"
+                    "text": "ConorTheDev & Mirac"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "4.0.0"
+                    "text": "1.0.6"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 12+"
+                    "text": "iOS 13+"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -88,7 +88,7 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "4.0.0"
+                    "title": "1.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
