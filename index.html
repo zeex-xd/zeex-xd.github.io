@@ -1,20 +1,61 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
+<html lang="pt-BR"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zeex xD</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="style.css">
-    <title>Zeex Repo</title>
 </head>
 <body>
-    <div class="main">
-        <h1>Zeex Repo</h1>
-        <div class="top">
-            <button><a href="sileo://source/https://zeex-xd.github.io/">Sileo</a></button>
-            <button><a href="zbra://sources/add/https://zeex-xd.github.io/">Zebra</a></button>
-            <button><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://zeex-xd.github.io/">Cydia</a></button>
+    <div class="container">
+        <img id="profile-img" alt="Imagem de Perfil" class="profile-img" style="display: block;" src="img.jpg">
+
+        <div class="links">
+            <a id="youtube-link" href="https://youtube.com/@ZeexiOS" target="_blank" class="youtube" style="display: inline-block;">
+                <i class="fab fa-youtube"></i>
+            </a>
+            </a>
+<a id="sileo-link" href="sileo://source/https://zeex-xd.github.io/" target="_blank" class="sileo" style="display: inline-block; transition: transform 10.3s ease;">
+    <img src="sileo.png" alt="Sileo Icon" class="profile-img" style="width: 28px; height: 28px; transition: transform 10.3s ease, filter 10.3s ease;">
+</a>
+
+           <a id="telegram-link" href="https://t.me/degolado" target="_blank" class="telegram" style="display: inline-block;">
+                <i class="fab fa-telegram"></i>
+            </a>
         </div>
-        <img src="arte-escura-chifres-de-cabeca-de-cabra-ovelha-satanica-preto-branco-para-tatuagem-e-ilustracao-de-roupas_561841-2376.png" alt="imagem">
-    </div>
+    <div></div></div>
+
+    <script>
+        fetch('update.php')
+            .then(response => response.json())
+            .then(data => {
+
+                const profileImg = document.getElementById('profile-img');
+                if (data.photo) {
+                    profileImg.src = data.photo;
+                    profileImg.style.display = 'block';
+                }
+
+                function updateLink(id, linkData) {
+                    const linkElement = document.getElementById(id);
+                    if (linkData.active && linkData.url) {
+                        linkElement.href = linkData.url;
+                        linkElement.style.display = 'inline-block';
+                    }
+                }
+
+                updateLink('instagram-link', data.links.instagram);
+                updateLink('instagram2-link', data.links.instagram2);
+                updateLink('youtube-link', data.links.youtube);
+                updateLink('telegram-link', data.links.telegram);
+                updateLink('twitter-link', data.links.twitter);
+                updateLink('telegram-link', data.links.telegram);
+                updateLink('tiktok-link', data.links.tiktok);
+                updateLink('sileo-link', data.links.sileo);
+            })
+            .catch(error => {
+                console.error('Erro ao carregar o arquivo JSON:', error);
+            });
+    </script>
 </body>
 </html>
